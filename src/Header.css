@@ -15,7 +15,7 @@
 }
 
 .header__left > img {
-    object-fit: contain;
+    object-fit: cover;
     height: 40px;
     margin-right: 10px;
 }
