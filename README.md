@@ -1,3 +1,3 @@
-LinkedIn Clone using React
+LinkedIn Clone built in React
 
-Enjoy !!! :)
+Enjoy !!! 
