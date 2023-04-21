@@ -12,10 +12,7 @@ function Header() {
   return (
     <div className="header">
       <div className="header__left">
-        <img
-          src="https://img.icons8.com/color/48/000000/linkedin.png"
-          alt="Linkedin Icon"
-        />
+        <img src="./images/linkedin.png" alt="Linkedin Icon" />
         {/* Icon doesn't fit search input, learn how to fix it */}
 
         <div className="header__search">
@@ -30,7 +27,7 @@ function Header() {
         <HeaderOption Icon={BusinessCenterIcon} title="Jobs" />
         <HeaderOption Icon={ChatIcon} title="Messaging" />
         <HeaderOption Icon={NotificationsIcon} title="Notifications" />
-        <HeaderOption avatar="https://ibb.co/R61WjCW" title="me" />
+        <HeaderOption avatar="./images/profile-img.png" title="me" />
       </div>
     </div>
   );
