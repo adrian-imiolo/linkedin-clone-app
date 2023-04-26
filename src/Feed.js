@@ -28,6 +28,7 @@ function Feed() {
   };
 
   return (
+    //  i did something wrong with dependencies, fix that bug
     <div className="feed">
       <div className="feed__inputContainer">
         <div className="feed__input">
